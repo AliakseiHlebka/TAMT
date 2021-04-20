@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+	<car id='001'>
+		<model>Renault Logan</model>
+		<valueInDollars>9000</valueInDollars>
+		<fuelConsumption>6</fuelConsumption>
+		<passengersNumber>4</passengersNumber>
+	</car>
+	<car id='002'>
+		<model>Lada Vesta</model>
+		<valueInDollars>10000</valueInDollars>
+		<fuelConsumption>8</fuelConsumption>
+		<passengersNumber>4</passengersNumber>
+	</car>
+</cars>
