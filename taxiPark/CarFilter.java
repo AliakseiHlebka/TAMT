@@ -1,4 +1,4 @@
-package com.epam.task.taxiPark;
+package com.epam.task.TAMT.taxiPark;
 
 public class CarFilter {
     int valueInDollars;
@@ -52,10 +52,7 @@ public class CarFilter {
         }
         return ok;
     }
-    
-    
-    
-    
+
     public enum ComparingOperators {
         MORE, LESS, EQUAL;
     }

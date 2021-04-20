@@ -1,4 +1,4 @@
-package com.epam.task.taxiPark.exception;
+package com.epam.task.TAMT.taxiPark.exception;
 //ошибка выводится при попытке добавления в парк автомобиля с расходом топлива выше заданного
 public class TooBigConsumptionException extends RuntimeException {
 

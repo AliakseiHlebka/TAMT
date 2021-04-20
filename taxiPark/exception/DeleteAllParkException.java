@@ -1,4 +1,4 @@
-package com.epam.task.taxiPark.exception;
+package com.epam.task.TAMT.taxiPark.exception;
 //ошибка выводится при попытке удаления списка автомобилей, удовлетворяющих заданым параметрам, если в этот список попали все автомобили парка
 public class DeleteAllParkException extends RuntimeException {
 

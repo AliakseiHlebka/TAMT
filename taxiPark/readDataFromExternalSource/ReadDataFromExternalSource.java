@@ -1,6 +1,6 @@
-package com.epam.task.taxiPark.readDataFromExternalSource;
+package com.epam.task.TAMT.taxiPark.readDataFromExternalSource;
 
-import com.epam.task.taxiPark.Car;
+import com.epam.task.TAMT.taxiPark.Car;
 
 import java.util.List;
 

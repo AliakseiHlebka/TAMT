@@ -1,4 +1,4 @@
-package com.epam.task;
+package com.epam.task.TAMT;
 
 public class SortListByStringsLength {
     public static void main(String[] args) {

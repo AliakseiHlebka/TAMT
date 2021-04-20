@@ -1,4 +1,4 @@
-package com.epam.task.taxiPark;
+package com.epam.task.TAMT.taxiPark;
 
 import java.util.Objects;
 

@@ -1,16 +1,16 @@
-package com.epam.task.taxiPark;
+package com.epam.task.TAMT.taxiPark;
 
-import com.epam.task.taxiPark.exception.CarNotFoundException;
-import com.epam.task.taxiPark.exception.DeleteAllParkException;
-import com.epam.task.taxiPark.exception.TooBigConsumptionException;
-import com.epam.task.taxiPark.readDataFromExternalSource.ReadFromDatabase;
-import com.epam.task.taxiPark.readDataFromExternalSource.ReadFromXmlFile;
+import com.epam.task.TAMT.taxiPark.exception.CarNotFoundException;
+import com.epam.task.TAMT.taxiPark.exception.DeleteAllParkException;
+import com.epam.task.TAMT.taxiPark.exception.TooBigConsumptionException;
+import com.epam.task.TAMT.taxiPark.readDataFromExternalSource.ReadFromDatabase;
+import com.epam.task.TAMT.taxiPark.readDataFromExternalSource.ReadFromXmlFile;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.epam.task.taxiPark.CarFilter.ComparingOperators.LESS;
-import static com.epam.task.taxiPark.CarFilter.ComparingOperators.MORE;
+import static com.epam.task.TAMT.taxiPark.CarFilter.ComparingOperators.LESS;
+import static com.epam.task.TAMT.taxiPark.CarFilter.ComparingOperators.MORE;
 
 public class TaxiFleet {
     private ArrayList<Car> listOfCars;

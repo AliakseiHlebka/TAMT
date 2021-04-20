@@ -1,7 +1,7 @@
-package com.epam.task.taxiPark.readDataFromExternalSource;
+package com.epam.task.TAMT.taxiPark.readDataFromExternalSource;
 
-import com.epam.task.taxiPark.Car;
-import com.epam.task.taxiPark.CargoTruck;
+import com.epam.task.TAMT.taxiPark.Car;
+import com.epam.task.TAMT.taxiPark.CargoTruck;
 
 import java.sql.*;
 import java.util.ArrayList;

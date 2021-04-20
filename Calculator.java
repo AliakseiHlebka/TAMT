@@ -1,4 +1,4 @@
-package com.epam.task;
+package com.epam.task.TAMT;
 
 import java.io.BufferedReader;
 import java.io.IOException;

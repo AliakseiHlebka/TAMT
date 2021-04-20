@@ -1,11 +1,11 @@
-package com.epam.task.taxiPark.readDataFromExternalSource;
+package com.epam.task.TAMT.taxiPark.readDataFromExternalSource;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
-import com.epam.task.taxiPark.Car;
-import com.epam.task.taxiPark.PassengerCar;
+import com.epam.task.TAMT.taxiPark.Car;
+import com.epam.task.TAMT.taxiPark.PassengerCar;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;

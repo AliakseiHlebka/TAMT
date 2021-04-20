@@ -1,4 +1,4 @@
-package com.epam.task.taxiPark.exception;
+package com.epam.task.TAMT.taxiPark.exception;
 //ошибка выводится при попытке удаления автомобиля по заданным параметрам, если в парке нет автомобиля, отвечающего таким параметрам
 public class CarNotFoundException extends RuntimeException {
     public CarNotFoundException() {
